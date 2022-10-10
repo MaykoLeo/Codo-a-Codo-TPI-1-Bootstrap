@@ -4,7 +4,11 @@
     box-sizing: border-box;
 }
 
+.carrousel-bootstrap {
+    filter: brightness(50%);
+}
+
 .texto-header {
     margin-left: 800px;
-    background-color: aquamarine;
+    margin-right: 50px;
 }
